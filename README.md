@@ -6,9 +6,12 @@ Installation instructions:
 
 3.Have fun!
 
+
 Changelog :
+
 V1.0
 •	Initial release
+
 V1.1
 •	JNSQ city textures are now invisible during the day
 •	Added new textures for cities at night
